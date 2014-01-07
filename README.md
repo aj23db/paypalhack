@@ -6,11 +6,11 @@ The given prototype contains a very minimalistic and basic working model of the 
 
 Description:
 
-index.php - User's Page.
-market.php - Admin/The Supermarket Page.
-handler.php - Handle Orders and Send to Database.
-db.php - Helper for connecting to database.
-error.php - Error Message Page.
+index.php - User's Page.<br>
+market.php - Admin/The Supermarket Page.<br>
+handler.php - Handle Orders and Send to Database.<br>
+db.php - Helper for connecting to database.<br>
+error.php - Error Message Page.<br>
 
 Twitter Bootstrap for UI design and CSS.
 
